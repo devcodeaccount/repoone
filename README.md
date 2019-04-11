@@ -1,2 +1,2 @@
 # repoone
-first repo test
+Apply pull command for test.
